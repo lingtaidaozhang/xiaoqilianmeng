@@ -1,0 +1,148 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+#biaotou
+{
+	width: 100%;
+	height: 500px;
+	position: relative;
+	          top: 0px;
+			  left: 0px;
+}
+#biaotou img
+{
+	height: 100%;
+	width: 100%;
+
+}
+#mulu
+{
+	background-color: white;
+	height: 50px;
+	width: 60%;
+	opacity: 0.7;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -25px;
+	text-align: center;
+	margin-bottom: 15px;
+	
+}
+#mulu p
+{
+	
+	line-height: 50px;
+	
+
+}
+
+#ss1
+{
+	position: absolute;
+	          top: 54%;
+	          left: 36%;
+	width: 22%;
+	height:32px;
+	opacity: 0.5;
+}
+#ss2
+{
+	position: absolute;
+	          top: 53.9%;
+	          left: 58.2%;
+	          width: 18%;
+	width: 7.5%;
+	height:37px;
+	color: white;
+	background-color:#5C7CA3;
+}
+.muluw
+{
+	text-decoration: none;
+	color: #1A648E;
+}
+#weiyek
+{
+
+	height: 150px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+#weiye
+{
+	margin: auto;
+	margin-top: 70px;
+	background-color: #262a59;
+	height: 50px;
+	width: 100%;
+	
+}
+#weiye a
+{
+	display:inline-block;
+	 vertical-align:top;
+}
+#weiye p
+{
+	line-height: 50px;
+	width: 100%;
+	font-size: 5%;
+}
+.weiyel
+{
+	color: white;
+	text-decoration: none;
+	margin-right: 5%;
+	
+}
+#weiyel1
+{
+	color: white;
+	text-decoration: none;
+	margin-right: 5%;
+	margin-left:15%;
+}
+#weiyel2
+{
+	color: white;
+	text-decoration: none;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+#weiyeli
+{
+	display:inline-block;
+	margin-top: -40px;
+}
+
+#chengli
+{
+	width: 80%;
+	text-align: center;
+	margin: auto;
+}
+.zhang
+{
+	font-weight: bold; 
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+.jie
+{
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 20px;
+	text-align: left;
+	line-height: 1.5;
+}
+.neirong
+{
+	font-size:16px;
+	margin-bottom: 20px;
+	text-align: left;
+	line-height: 1.5;
+	text-indent: 2em;
+}
